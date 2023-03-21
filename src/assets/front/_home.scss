@@ -1,0 +1,69 @@
+.logo{
+  background: url('statics/Logo/Logo.png');
+}
+.object-fit-cover{
+  object-fit: cover;
+}
+.title-hr{
+  border: solid 2px #EEEDE9;
+  
+}
+.box-pictrue{
+  width: 636px;
+  height: 636px;
+  object-fit: cover;
+}
+.box-1{
+  width: 415px;
+  height: 575px;
+  border-radius: 200px 200px 0px 0px;
+  border: solid 2px;
+  object-fit: cover;
+  left: 0px;
+  right: 20px;
+  top: 80px;
+  bottom: 146px;
+}
+.box-2{
+  width: 302px;
+  height: 301px;
+  border: solid 2px;
+  right: 0px;
+  object-fit: cover;
+  top: 400px;
+  bottom: 100px;
+ 
+}
+.text-about{
+  line-height: 2;
+  letter-spacing: 2px;
+}
+.rectangle-group{
+  width: 300px;
+  height: 540px;
+}
+.circle{
+  height: 210px;
+  width: 210px;
+}
+.about-hight{
+  height: 780px;
+}
+@media screen and (max-width:768px){
+  .box-pictrue{
+    height: 318px;
+  }
+  .about-hight{
+    height: 500px;
+  }
+  .box-1{
+    height: 450px;
+    width: 350px;
+    top:0px
+  }
+  .box-2{
+    height: 200px;
+    width: 200px;
+    top: 250px;
+  }
+}
