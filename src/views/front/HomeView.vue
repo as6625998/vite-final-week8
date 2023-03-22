@@ -4,10 +4,9 @@
         <div class="row">
           <div class="col-md-6 align-self-center pt-8 pb-4">
             <h6>幸福生活有點田，<br>有機宅配到眼前。</h6>
-            <form class="d-flex col-9">
-              <input class="form-control me-2" type="search" placeholder="輸入商品名稱" aria-label="Search">
-              <button class="btn btn-outline-success" type="submit"><i class="bi bi-search"></i></button>
-            </form>
+            <router-link to="/products" >
+              <button class="col-9 btn btn-success fs-5" type="button">前往商品</button>
+            </router-link>
           </div>
           <div class="col-md-6 gx-0">
             <img class="box-pictrue mb-n5 img-fluid g-0" src="https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fHRvbWF0b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60" alt=""></div>
@@ -77,7 +76,7 @@
           </div>
         </div>
         
-        <div class="col-md-6 col-xl-3 pb-5" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="1200">
+        <div class="col-md-6 col-xl-3 pb-5" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="900">
           <div class="card rectangle-group align-items-center bg-light pt-5 mx-auto">
             <img src="https://plus.unsplash.com/premium_photo-1664648234248-7bb670bd982b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI3fHx0YXN0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" 
             class="card-img-top rounded-circle border border-3 border border-dark circle object-fit-cover" alt="...">

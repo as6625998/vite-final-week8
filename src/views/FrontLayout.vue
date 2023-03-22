@@ -19,7 +19,7 @@
             </li>
             <li class="nav-item ms-5">
               <RouterLink class="nav-link position-relative" to="/cart"><i class="bi bi-bag-check"></i>
-                <span  class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+                <span class="position-absolute translate-middle badge rounded-pill bg-danger">
                   {{carts.length}}
                 </span> 
               </RouterLink>
@@ -35,9 +35,9 @@
       <div class="container">
         <div class="d-flex align-items-center justify-content-between mb-4">
           <ul class="d-flex list-unstyled mb-0 h3">
-            <li><a href="#" class="text-dark me-4"><i class="bi bi-instagram"></i></a></li>
-            <li><a href="#" class="text-dark me-4"><i class="bi bi-facebook"></i></a></li>
-            <li><a href="#" class="text-dark me-4"><i class="bi bi-line"></i></a></li>
+            <li><a href="https://www.instagram.com/" class="text-dark me-4"><i class="bi bi-instagram"></i></a></li>
+            <li><a href="https://www.facebook.com/" class="text-dark me-4"><i class="bi bi-facebook"></i></a></li>
+            <li><a href="https://line.me/zh-hant/" class="text-dark me-4"><i class="bi bi-line"></i></a></li>
           </ul>
         </div>
         <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-end align-items-start text-dark">

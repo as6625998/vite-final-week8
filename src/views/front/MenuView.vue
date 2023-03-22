@@ -17,7 +17,7 @@
                 </button>
               </h2>
               <div id="flush-collapseOne" class="accordion-collapse collapse menu-show" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                <div class="accordion-body">
+                <div class="accordion-body bg-light">
                   <div class="fooding">
                     <h4>預備食材:</h4>
                     <p>番茄 4 顆、小黃瓜 1 條、櫛瓜 1 條、洋蔥 0.25 顆、彩椒 0.5 顆、大蒜 1 瓣</p>
@@ -43,7 +43,7 @@
                 </button>
               </h2>
               <div id="flush-collapseTwo" class="accordion-collapse collapse menu-show" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                <div class="accordion-body">
+                <div class="accordion-body bg-light">
                   <div class="fooding">
                     <h4>預備食材:</h4>
                     <p>櫛瓜1條、球芽甘藍150克、玉米筍6條、蓮藕1節、彩椒 1顆、烤地瓜1條</p>
@@ -68,7 +68,7 @@
                 </button>
               </h2>
               <div id="flush-collapseThree" class="accordion-collapse collapse menu-show" aria-labelledby="flush-headingthree" data-bs-parent="#accordionFlushExample">
-                <div class="accordion-body">
+                <div class="accordion-body bg-light">
                   <div class="fooding">
                     <h4>預備食材:</h4>
                     <p>酪梨 1/2 顆、牛番茄 1/2 顆、洋蔥 1/5 顆</p>
@@ -91,7 +91,7 @@
                 </button>
               </h2>
               <div id="flush-collapseFour" class="accordion-collapse collapse menu-show" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                <div class="accordion-body">
+                <div class="accordion-body bg-light">
                   <div class="fooding">
                     <h4>預備食材:</h4>
                     <p>菠菜 200g、Parmesan cheese 60g、蒜 1-2瓣、酸奶 3T、小型蕃茄 1顆</p>
@@ -108,10 +108,6 @@
           </div>
     </div>
 </div></div> 
-
-
-
-  
 </template>
 <script>
 import NavProduct from '@/components/fornt/NavProduct.vue'
@@ -121,3 +117,8 @@ export default{
   }
 }
 </script>
+<style>
+h4{
+  color:#3C7854
+}
+</style>
