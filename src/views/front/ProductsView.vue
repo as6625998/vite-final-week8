@@ -11,7 +11,7 @@
           </nav>
 
         <div class="col-md-3">
-          <ul class="list-group fs-5">
+          <ul class="list-group fs-5 pb-5" style="cursor:pointer">
             <li value="所有商品" class="list-group-item list-group-item-action list-group-item-success py-3"
             @click="getCategory('所有商品')"
             :class="{ active: category === '所有商品'}"

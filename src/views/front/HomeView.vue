@@ -47,7 +47,7 @@
         <div class="col-md-6 col-xl-3" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
           <div class="card rectangle-group align-items-center bg-light pt-5 mx-auto">
             <img src="https://plus.unsplash.com/premium_photo-1675826977325-98b9cb57520d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fFBBRERZfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" 
-            class="card-img-top rounded-circle border border-3 border border-dark circle object-fit-cover" alt="...">
+            class=" rounded-circle border border-3 border border-dark circle object-fit-cover" alt="...">
             <div class="card-body">
               <h2 class="card-title text-center fw-bold py-2">安全</h2>
               <p class="card-text text-start px-3">有機蔬菜生產過程中不能使用任何人工合成的肥料、農藥、除草劑、抗生素、生長調節劑以及轉基因物質，因此經過有機認證的食品不會帶有任何常規食品會出現的安全問題。</p>
@@ -57,7 +57,7 @@
         <div class="col-md-6 col-xl-3" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
           <div class="card rectangle-group align-items-center bg-light pt-5 mx-auto">
             <img src="https://images.unsplash.com/photo-1540420773420-3366772f4999?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE3fHxjYXJyb3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" 
-            class="card-img-top rounded-circle border border-3 border border-dark circle object-fit-cover" alt="...">
+            class=" rounded-circle border border-3 border border-dark circle object-fit-cover" alt="...">
             <div class="card-body">
               <h2 class="card-title text-center fw-bold py-2">營養</h2>
               <p class="card-text text-start px-3">有機蔬菜含有的維生素C以及鐵、鎂、鈣等微量元素比一般蔬菜的含量高，而重金屬以及致癌的硝酸鹽的含量則較低。</p>
@@ -68,7 +68,7 @@
         <div class="col-md-6 col-xl-3" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
           <div class="card rectangle-group align-items-center bg-light pt-5 mx-auto">
             <img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8a2VlcCUyMGluJTIwZ29vZCUyMGhlYWx0aHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" 
-            class="card-img-top rounded-circle border border-3 border border-dark circle object-fit-cover" alt="...">
+            class=" rounded-circle border border-3 border border-dark circle object-fit-cover" alt="...">
             <div class="card-body">
               <h2 class="card-title text-center fw-bold py-2">健康</h2>
               <p class="card-text text-start px-3">有機蔬菜的類黃酮含量比一般蔬菜高，對於降血脂、降血壓、防治心血管疾病、改善血液循環、增強免疫力等有良好的作用，還能夠有效預防癌症、心臟病和與年齡有關的其他疾病。</p>
@@ -79,7 +79,7 @@
         <div class="col-md-6 col-xl-3 pb-5" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="900">
           <div class="card rectangle-group align-items-center bg-light pt-5 mx-auto">
             <img src="https://plus.unsplash.com/premium_photo-1664648234248-7bb670bd982b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI3fHx0YXN0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" 
-            class="card-img-top rounded-circle border border-3 border border-dark circle object-fit-cover" alt="...">
+            class=" rounded-circle border border-3 border border-dark circle object-fit-cover" alt="...">
             <div class="card-body">
               <h2 class="card-title text-center fw-bold py-2">美味</h2>
               <p class="card-text text-start px-3">有機蔬菜由於是自然生長，因此保持了食物的天然成份，吃起來鮮美爽口，更能夠明顯地品味到食物本身的自然和鮮美。</p>
